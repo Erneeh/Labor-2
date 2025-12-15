@@ -1,0 +1,4 @@
+﻿Prezo kepyklele
+Baltasis; 18; 4500; 400;
+Uogu; 186; 3600; 450;
+Šokoladinis; 1086; 2000; 200;

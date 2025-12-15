@@ -1,0 +1,9 @@
+﻿8
+Škoda Fabia;benzinas; 7.1;
+Opel Meriva;benzinas; 7.5;
+Volkswagen Golf;dyzelinas; 6.3;
+Opel Astra;dyzelinas; 6.1;
+Toyota Corolla;benzinas; 6.8;
+Toyota Yaris;benzinas; 5.9;
+Peugeot 207;dyzelinas; 5.5;
+Škoda Octavia;dyzelinas; 7.3;

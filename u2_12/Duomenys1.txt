@@ -1,0 +1,4 @@
+﻿Gardesio kepyklele
+Migdolu; 15; 2500; 1900;
+Picos; 1086; 4000; 400;
+Ungurio; 15; 3600; 450;

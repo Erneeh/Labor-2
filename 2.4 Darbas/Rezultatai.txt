@@ -1,0 +1,23 @@
+Automobiliu kiekis 8
+Automobiliu sarasas:
+|---------|---------------------|---------------------|---------------------|
+|         |                     |                     |                     |
+| Eil nr. | Pavadinimas         | Degalai             | Sąnaudos (l/100 km) |
+|         |                     |                     |                     |
+|---------|---------------------|---------------------|---------------------|
+|       1 | Škoda Fabia         | benzinas            |                7.10 |
+|       2 | Opel Meriva         | benzinas            |                7.50 |
+|       3 | Volkswagen Golf     | dyzelinas           |                6.30 |
+|       4 | Opel Astra          | dyzelinas           |                6.10 |
+|       5 | Toyota Corolla      | benzinas            |                6.80 |
+|       6 | Toyota Yaris        | benzinas            |                5.90 |
+|       7 | Peugeot 207         | dyzelinas           |                5.50 |
+|       8 | Škoda Octavia       | dyzelinas           |                7.30 |
+-----------------------------------------------------------------------------
+Vidutines degalu sanaudos:    6.56 litro/100 km
+dyzelinas - variklius turinciu automobiliu kiekis: 4
+benzinas - variklius turinciu automobiliu kiekis: 4
+
+
+dyzelinas - variklius turinciu automobiliu vid. sanaudos: 6.3 litro/100 km
+benzinas - variklius turinciu automobiliu vid. sanaudos: 6.825 litro/100 km
